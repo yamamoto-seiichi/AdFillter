@@ -4,4 +4,4 @@
 ! 作成者：
 ! 最終更新 
 
-pc-getmoney.ib-game.jp###gn_interstitial_area
+www.warau.jp###pfx_interstitial
