@@ -5,3 +5,4 @@
 ! 最終更新 
 
 www.warau.jp###pfx_interstitial
+www.warau.jp###"ca_profitx_ad pfx-marked"
