@@ -4,4 +4,4 @@
 ! 作成者：
 ! 最終更新 
 
-pc-getmoney.ib-game.jp##div
+pc-getmoney.ib-game.jp##div[id^="gn_interstitial_area"]
